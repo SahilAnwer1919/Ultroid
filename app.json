@@ -40,6 +40,10 @@
             "required": true,
             "value": ""
         },
+        "MONGO_PASSWORD": {
+            "description": "Fill there a mongo password database from mongodb.com",
+            "value": ""
+        },
         "HEROKU_API": {
             "description": "Heroku API token. Mandatory for Heroku Deploy...",
             "value": "",
