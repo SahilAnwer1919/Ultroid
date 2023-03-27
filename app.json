@@ -17,13 +17,20 @@
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
             "value": "", 
-            "required": false
+            "required": true 
+
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
             "value": "",
-            "required": false
-        },
+            "required": true
+
+        },       
+        "BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }, 
         "SESSION": {
             "description": "Session String (telethon or pyrogram) for your telegram user account. The userbot will NOT work without a session string!!",
             "value": ""
