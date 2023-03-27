@@ -40,6 +40,11 @@
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ Heroku 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SahilAnwer1919/Ultroid"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=Heroku" width="220" height="38.45"/></a></p>
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
